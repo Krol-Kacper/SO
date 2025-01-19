@@ -1,1 +1,1 @@
-# SO
+# modul kernela linuxa do lab6 z systemow operacyjnych
